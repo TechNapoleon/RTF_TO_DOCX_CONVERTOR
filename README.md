@@ -49,8 +49,3 @@ If the issue persists, refer to the following resources:
 
 ## **Support**
 If you encounter any issues, have questions, or find bugs, feel free to reach out.
-
----
-**Author:** Your Name  
-**Contact:** your.email@example.com
-
